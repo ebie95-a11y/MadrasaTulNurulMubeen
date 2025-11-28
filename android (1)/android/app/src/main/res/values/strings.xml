@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Madrasa tul Nurul Mubeen</string>
+    <string name="title_activity_main">Madrasa tul Nurul Mubeen</string>
+    <string name="package_name">com.madrasanurul.app</string>
+    <string name="custom_url_scheme">com.madrasanurul.app</string>
+</resources>
